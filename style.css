@@ -1,0 +1,15 @@
+#root{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+    background-color: aquamarine;
+}
+.card img {
+margin-top: 20px;
+    height: 20vh;
+    width: 15vh;
+    border: solid 10px black;
+    border-color: gray ;
+  /* box-shadow: 15px 15px 10px gray; */
+
+}
